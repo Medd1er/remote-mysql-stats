@@ -24,6 +24,5 @@ A shell script to grab statistic of Remote MySQL server statistic
   
       > systemctl restart zabbix-agent
    6. Import **template-remote-mysql.xml**
-   7. Import **screen-remote-mysql.xml**
-   8. Fill the inherited macros fields {$MYSQL_HOST}, {$MYSQL_USER} and {$MYSQL_PASS} in attached template to the host
-   9. Enjoy!
+   7. Fill the inherited macros fields {$MYSQL_HOST}, {$MYSQL_USER} and {$MYSQL_PASS} in attached template to the host
+   8. Enjoy!
